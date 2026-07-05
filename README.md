@@ -64,17 +64,6 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/fikrado).
 
 
 
-![fikrado's github stats](https://github-readme-stats.vercel.app/api?username=fikrado2&show_icons=true&theme=jolly)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrado2&langs_count=10&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fikrado2&repo=fikrado&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fikrado2&repo=weather&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fikrado2&repo=themes&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fikrado2&repo=fikrado2&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://raw.githubusercontent.com/lowlighter/lowlighter/aa85d2d130d984cdf495cc00fb32d0ce61b0cf9a/metrics.plugin.pagespeed.svg">
-
-
-
 <a href="https://github.com/fikrado2/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/fikrado2/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=fikrado2&column=8&theme=gruvbox&no-frame=true"/>
