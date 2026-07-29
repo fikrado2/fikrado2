@@ -172,7 +172,7 @@ Creating:
 
 <p align="center">
 
-<img src="https://github.com/fikrado2/fikrado2/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/fikrado2/fikrado2/output/github-contribution-grid-snake.svg" />
 
 </p>
 
