@@ -1,0 +1,17 @@
+{
+  "name": "Fikrado Security",
+  "short_name": "Fikrado",
+  "description": "Cybersecurity, penetration testing, and technology training company.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#03080f",
+  "theme_color": "#03080f",
+  "icons": [
+    {
+      "src": "/fikrado/logo_main.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ]
+}
