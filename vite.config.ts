@@ -5,7 +5,7 @@ import path from "path";
 const root = import.meta.dirname;
 
 export default defineConfig({
-  base: "/fikrado/",
+  base: "/fikrado2/",
   plugins: [react()],
   resolve: {
     alias: {
