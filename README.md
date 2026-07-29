@@ -1,20 +1,11 @@
+# 👋 Hi, I'm Yahye Abdirahman (Fikrado) 🔐
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/72925343?s=200&v=4" width="120" height="120" alt="FIKRADO Logo" style="border-radius: 50%;" />
 </p>
-
-<h1 align="center">🛡️ FIKRADO</h1>
-<p align="center"><strong>Cybersecurity & Technology Education Platform</strong></p>
-
 <p align="center">
-  <a href="https://fikrado2.github.io/fikrado/"><strong>Explore Live Demo »</strong></a>
-</p>
 
-
----
-# 👋 Hi, I'm Yahye Abdirahman (Fikrado) 🔐
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=fikrado2&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </p>
 
 <img align="right" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" />
@@ -23,52 +14,44 @@
 
 I am a **Cybersecurity Specialist | AI Developer | Full Stack Developer | IT Author | Technology Entrepreneur**.
 
-I build secure digital solutions using **Artificial Intelligence, Cybersecurity, Cloud Technologies, and Modern Software Development**.
+I build secure digital solutions using:
 
-Founder of:
+* 🤖 Artificial Intelligence
+* 🔐 Cybersecurity
+* 🌐 Full Stack Development
+* ☁️ Cloud Technologies
+* ⚡ Automation Systems
 
-# 🔐 FIKRADO SECURITY
+## 🔐 Founder of FIKRADO SECURITY
 
 **"Amniga Cyber-ka iyo Mustaqbalka"**
 
 A cybersecurity organization focused on:
 
-* 🛡️ Cybersecurity Assessment
+* 🛡️ Security Assessment
 * 🔍 Penetration Testing
 * 🌐 Secure Website Development
 * 🤖 AI Automation Solutions
 * 🎓 Cybersecurity Training
-* ☁️ Cloud & Infrastructure Security
+* ☁️ Cloud Security
 
 ---
 
 # 💻 Programming Languages
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=typescript" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=php" />
-<img src="https://skillicons.dev/icons?i=bash" />
-<img src="https://skillicons.dev/icons?i=sql" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,php,bash,sql" />
 
 </p>
 
 ---
 
-# ⚙️ Frameworks & Development
+# ⚙️ Frameworks & Technologies
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=vite" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=tailwind" />
-<img src="https://skillicons.dev/icons?i=bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,tailwind,bootstrap,mongodb,mysql" />
 
 </p>
 
@@ -76,36 +59,29 @@ A cybersecurity organization focused on:
 
 # 🤖 Artificial Intelligence & Automation
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=pytorch" />
-<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
 </p>
 
-AI Technologies:
+AI Tools:
 
 * 🧠 OpenAI Models
 * 🟦 Google Gemini
 * 🦙 Ollama Local AI
-* ⚡ Hermes AI Agents
+* ⚡ Hermes AI Agent
 * 🐙 OpenClaw Automation
 * 📊 AI Market Analysis Systems
-* 🔗 API Integration & Automation
+* 🔗 API Development
 
 ---
 
 # 🛠️ IDEs & Developer Tools
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=pycharm" />
-<img src="https://skillicons.dev/icons?i=visualstudio" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,visualstudio,git,github,docker,linux" />
 
 </p>
 
@@ -113,21 +89,20 @@ AI Technologies:
 
 # 🔐 Cybersecurity Skills
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,docker" />
 
 </p>
 
-Security Areas:
+Skills:
 
 * 🛡️ Network Security
 * 🔎 Vulnerability Assessment
 * 🧪 Penetration Testing
 * 🌐 Web Application Security
-* 🔥 Firewall Configuration
+* 🔥 Infrastructure Security
 * 📡 Network Administration
-* 🔑 Identity & Access Management
 * 🚨 Security Monitoring
 
 Knowledge & Certifications:
@@ -142,13 +117,9 @@ Knowledge & Certifications:
 
 # ☁️ Cloud & DevOps
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=githubactions" />
-<img src="https://skillicons.dev/icons?i=aws" />
-<img src="https://skillicons.dev/icons?i=vercel" />
-<img src="https://skillicons.dev/icons?i=nginx" />
-<img src="https://skillicons.dev/icons?i=cloudflare" />
+<img src="https://skillicons.dev/icons?i=githubactions,aws,vercel,nginx,cloudflare" />
 
 </p>
 
@@ -158,30 +129,30 @@ Knowledge & Certifications:
 
 ## 🔐 FIKRADO SECURITY
 
-Cybersecurity platform providing:
+Cybersecurity platform focused on:
 
 * Security consulting
-* Secure application development
-* Cyber awareness programs
+* Secure applications
+* Cyber awareness
 * Security research
 
 ## 🤖 AI Agent Projects
 
-Building intelligent systems with:
+Building intelligent systems using:
 
 * Large Language Models (LLMs)
 * AI Automation
-* API integrations
-* Local AI deployment
+* API Integration
+* Local AI Deployment
 
 ## 🌍 Web Applications
 
-Developing:
+Creating:
 
 * Business websites
 * Management systems
-* Security-focused applications
 * AI-powered platforms
+* Secure applications
 
 ---
 
@@ -189,11 +160,9 @@ Developing:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fikrado2&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=fikrado2&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" width="48%" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fikrado2&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikrado2&layout=compact&theme=tokyonight" width="40%" />
 
 </p>
 
@@ -203,7 +172,7 @@ Developing:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/fikrado2/fikrado2/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/fikrado2/fikrado2/blob/output/github-contribution-grid-snake.svg" />
 
 </p>
 
@@ -211,14 +180,26 @@ Developing:
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/fikrado2">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/GitHub-fikrado2-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/yahye-abdirahman/">
+<img src="https://img.shields.io/badge/LinkedIn-Yahye%20Abdirahman-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://x.com/fikrado1">
+<img src="https://img.shields.io/badge/X-Fikrado1-black?style=for-the-badge&logo=x" />
 </a>
 
 <a href="https://www.youtube.com/@fikrad0">
-<img src="https://skillicons.dev/icons?i=youtube" />
+<img src="https://img.shields.io/badge/YouTube-Fikrado-red?style=for-the-badge&logo=youtube" />
+</a>
+
+<a href="https://fikrado2.github.io/fikrado/">
+<img src="https://img.shields.io/badge/Website-FIKRADO%20SECURITY-blue?style=for-the-badge&logo=googlechrome" />
 </a>
 
 </p>
@@ -227,15 +208,13 @@ Developing:
 
 # 💡 My Mission
 
-> "Building secure technology solutions and empowering people through Cybersecurity and Artificial Intelligence."
-
-⭐ Follow my journey and support my open-source projects.
+> "Building secure technology solutions and empowering the next generation through Cybersecurity and Artificial Intelligence."
 
 ---
 
 <p align="center">
 
-### 🔐 FIKRADO SECURITY
+## 🔐 FIKRADO SECURITY
 
 ### Cybersecurity • Artificial Intelligence • Innovation
 
