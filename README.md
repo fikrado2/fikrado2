@@ -160,9 +160,11 @@ Creating:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fikrado2&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fikrado2&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikrado2&layout=compact&theme=tokyonight" width="40%" />
+<br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fikrado2&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -171,9 +173,7 @@ Creating:
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/fikrado2/fikrado2/output/github-contribution-grid-snake.svg" />
-
+<img src="https://raw.githubusercontent.com/fikrado2/fikrado2/output/snake.svg" />
 </p>
 
 ---
