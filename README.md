@@ -33,7 +33,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img width="100%" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" alt="Coding GIF" />
+      <img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
     </td>
   </tr>
 </table>
@@ -97,10 +97,10 @@ FIKRADO SECURITY is a cybersecurity & technology organization delivering:
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fikrado2&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikrado2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fikrado2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikrado2&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
