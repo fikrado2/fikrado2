@@ -23,7 +23,7 @@
     <td width="60%" valign="top">
       <p>I am a technology entrepreneur and developer dedicated to building secure, scalable, and intelligent digital solutions.</p>
       
-      <b>Core Focus Areas:</b>
+  <b>Core Focus Areas:</b>
       <ul>
         <li>🤖 <b>Artificial Intelligence:</b> LLMs, Local AI Agents & Market Analysis</li>
         <li>🔐 <b>Cybersecurity:</b> Penetration Testing & Web Application Security</li>
