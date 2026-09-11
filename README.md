@@ -94,12 +94,7 @@ FIKRADO SECURITY is a cybersecurity & technology organization delivering:
 </div>
 
 ---
-### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fikrado2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="fikrado2 GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fikrado2&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="fikrado2 Top Languages" width="48%" />
-</p>
 ---
 
 ### 🌐 Connect With Me
